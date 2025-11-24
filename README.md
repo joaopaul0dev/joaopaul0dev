@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 <br>
-Me chamo João Paulo, tenho 18 anos e sou natural do Rio Grande do Norte. Estou concluindo o ensino médio na Escola Estadual Floriano Cavalcanti. Atualmente, estou cursando um tecnico de Informática para Internet no Instintuto Metrópole Digital. so este espaço para aprender, experimentar e compartilhar meus códigos enquanto evoluo como programador.
+Me chamo João Paulo, tenho 18 anos e sou natural do Rio Grande do Norte. Estou concluindo o ensino médio na Escola Estadual Floriano Cavalcanti. Atualmente, estou cursando um tecnico de Informática para Internet no Instintuto Metrópole Digital. Uso este espaço para aprender, experimentar e compartilhar meus códigos enquanto evoluo como programador.
 <p align="left">
     <a href="https://github.com/joaopaul0dev?tab=stars">
         <img 
